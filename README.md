@@ -2,6 +2,8 @@
 脚本非官方出品。指在帮助纯新手用户快速使用 clouddrive2 挂载网盘。  
 脚本中使用的docker镜像与二进制文件均从官方 hub 及 github 仓库下载，请放心使用。
 
+脚本原作者项目地址为 https://github.com/sublaim/clouddrive2 已失效，因此fork了一个到自己这里作为备份
+
 ## 目录
 - [一键安装 Clouddrive2 脚本](#一键安装-clouddrive2-脚本)
   - [目录](#目录)
